@@ -57,12 +57,12 @@
 
 <p align="center">
   <b>Step 5: Host System Screenshot via Meterpreter</b><br>
-  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/host_screenshot.jpeg" width="500"/>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/screenshot_meterpreter.jpeg" width="500"/>
 </p>
 
 <p align="center">
   <b>Step 6: Captured Screenshot of Target Using Meterpreter</b><br>
-  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/screenshot_meterpreter.jpeg" width="500"/>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/host_screenshot.jpeg" width="500"/>
 </p>
 
 
