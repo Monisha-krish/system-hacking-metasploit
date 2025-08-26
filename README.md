@@ -36,13 +36,26 @@
 ## Screenshots
 > Add your images here once uploaded to `screenshots/`.
 
-- Step 1 – Recon (Nmap): `![Nmap Scan](screenshots/step1_nmap.jpeg)`
-  https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/NMap_Scan.jpeg
+## ​ Screenshots
 
-- Step 2 – Metasploit search: `![MSF Search](screenshots/step2_msf_search.jpeg)`
-- Step 3 – Module/Options: `![Exploit Setup](screenshots/step3_exploit_setup.jpeg)`
-- Step 4 – Session: `![Meterpreter](screenshots/step4_meterpreter.jpeg)`
-- Step 5 – Post-exploitation demo: `![Post Exploit](screenshots/step5_post.jpeg)`
+### Step 1: Nmap Scan (Reconnaissance)
+![Nmap Scan](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/NMap_Scan.jpeg)
+
+### Step 2: Searching for EternalBlue in Metasploit
+![Metasploit Search](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/msf_search.jpeg)
+
+### Step 3: Exploit Setup in Metasploit
+![Exploit Setup](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/exploit_setup.jpeg)
+
+### Step 4: Meterpreter Session Established
+![Meterpreter Session](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/meterpreter.jpeg)
+
+### Step 5: Host System Screenshot via Meterpreter
+![Host Screenshot](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/host_screenshot.jpeg)
+
+### Step 6: Captured Screenshot of Target Using Meterpreter
+![Captured Target Screenshot](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/screenshot_meterpreter.jpeg)
+
 
 ---
 
