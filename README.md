@@ -33,9 +33,6 @@
 - Confirmed how an unpatched SMBv1 host can be exploited via EternalBlue in a **controlled lab**.
 - Practiced safe exploitation workflow and documented remediation steps.
 
-## Screenshots
-> Add your images here once uploaded to `screenshots/`.
-
 ## ​ Screenshots
 
 ### Step 1: Nmap Scan (Reconnaissance)
