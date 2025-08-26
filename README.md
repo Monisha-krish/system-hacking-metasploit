@@ -37,6 +37,8 @@
 > Add your images here once uploaded to `screenshots/`.
 
 - Step 1 – Recon (Nmap): `![Nmap Scan](screenshots/step1_nmap.jpeg)`
+  https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/NMap_Scan.jpeg
+
 - Step 2 – Metasploit search: `![MSF Search](screenshots/step2_msf_search.jpeg)`
 - Step 3 – Module/Options: `![Exploit Setup](screenshots/step3_exploit_setup.jpeg)`
 - Step 4 – Session: `![Meterpreter](screenshots/step4_meterpreter.jpeg)`
