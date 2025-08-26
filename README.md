@@ -35,23 +35,36 @@
 
 ## ​ Screenshots
 
-### Step 1: Nmap Scan (Reconnaissance)
-![Nmap Scan](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/NMap_Scan.jpeg)
+<p align="center">
+  <b>Step 1: Nmap Scan (Reconnaissance)</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/NMap_Scan.jpeg" width="500"/>
+</p>
 
-### Step 2: Searching for EternalBlue in Metasploit
-![Metasploit Search](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/msf_search.jpeg)
+<p align="center">
+  <b>Step 2: Searching for EternalBlue in Metasploit</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/msf_search.jpeg" width="500"/>
+</p>
 
-### Step 3: Exploit Setup in Metasploit
-![Exploit Setup](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/exploit_setup.jpeg)
+<p align="center">
+  <b>Step 3: Exploit Setup in Metasploit</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/exploit_setup.jpeg" width="500"/>
+</p>
 
-### Step 4: Meterpreter Session Established
-![Meterpreter Session](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/meterpreter.jpeg)
+<p align="center">
+  <b>Step 4: Meterpreter Session Established</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/meterpreter.jpeg" width="500"/>
+</p>
 
-### Step 5: Host System Screenshot via Meterpreter
-![Host Screenshot](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/host_screenshot.jpeg)
+<p align="center">
+  <b>Step 5: Host System Screenshot via Meterpreter</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/host_screenshot.jpeg" width="500"/>
+</p>
 
-### Step 6: Captured Screenshot of Target Using Meterpreter
-![Captured Target Screenshot](https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/screenshot_meterpreter.jpeg)
+<p align="center">
+  <b>Step 6: Captured Screenshot of Target Using Meterpreter</b><br>
+  <img src="https://raw.githubusercontent.com/Monisha-krish/system-hacking-metasploit/main/screenshots/screenshot_meterpreter.jpeg" width="500"/>
+</p>
+
 
 
 ---
