@@ -1,5 +1,4 @@
-# system-hacking-metasploit
-System hacking lab using Kali Linux &amp; Metasploit (MS17-010/EternalBlue) — for education in a controlled VM environment.
+
 # System Hacking Using Kali Linux & Metasploit (MS17-010 / EternalBlue)
 
 > **Educational use only.** This lab was performed in an isolated VM network I own/control. Do **not** test on systems you don’t have permission to assess.
